@@ -60,7 +60,7 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)
 
 ### 📝 Documentación y APIs
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-339933.svg?style=flat&logo=Swagger&logoColor=white)
 
 ### 🖥️ CMS y Plataformas de Gestión
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF.svg?style=flat&logo=Strapi&logoColor=white)
