@@ -43,59 +43,71 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 ![Bulma](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/0d3b82ed-acf4-42bf-9023-148071420e42)
 ![Tailwind CSS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/208992d1-0920-4237-b89b-599640e7d554)
 ![Ant Design](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/fc90b42f-e19f-4fe3-bac1-eaae6a232884)
+![jQuery](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6c6a3166-af35-495c-a29c-2bb0164d1609)
+![JWT](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/b00cdea7-1a0d-4847-b29e-73425be554ca)
+![MUI](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6e69eabf-bd60-4772-9ebe-9feed1c275c2)
+![npm](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6ec55853-0335-4db6-aea8-be0e8fdf0c0f)
+![Node.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/3688f234-a205-48c6-afac-73b30d972cf8)
+![Strapi](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/46a4a2af-b46d-4785-9efc-5baac4599bd4)
+![Styled Components](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/76173423-1497-4870-a571-bb84bd4c01fa)
+![Vite](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/dc55bf6e-b74f-4e02-9db0-0feae344b5c6)
+![Webpack](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ac7a0c0d-359c-439f-9dd1-735d9f2a1ff6)
+![Yarn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/aebf183a-b49c-4570-a5fe-3e4d438736f8)
+![Prisma](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/02b44364-e8ef-45b0-a1b6-eca2e97a29cf)
+![Sequelize](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/237608e4-484a-49fd-8c47-f16eacfdf533)
+![Docker](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7cd3ac29-c2b0-4315-a647-5c56281e48c5)
+![Swagger](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ce83050c-d73d-48a3-9ad5-e40dd730bdc9)
+
+### Plataformas de Gestión
+![Jira](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/59dcaa8e-3a45-44ad-94ef-0dd480cf6948)
+![Trello](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ba6b3dfb-be09-46f3-9a7a-3200b3ccf404)
+
+### ☁️ Hosting/Cloud
+![AWS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/668e34b7-e12e-4d3b-92d0-a033125b2d9f)
+![Firebase](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/255fab66-0b71-459f-9da1-3364986f5bdd)
+![Heroku](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/4f45a6e6-a429-4851-8b27-4bbfe194e76e)
+![Digital Ocean](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/1881d4da-10f2-4167-bdd8-d3cd71082aba)
+![GitHub Pages](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/f5c56703-9771-44ea-86d3-0ca1af68531d)
+![Netlify](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/30fd48e2-b182-4b73-94f4-e90d83678386)
+![Vercel](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/11608e17-d987-4f20-b687-0d291647ee5e)
+
+### 🔬 CI
+![CircleCI](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/daf2661c-316b-4f5d-bf6d-6e57cd145eb5)
+![GitHub Actions](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/eabf6a4b-749c-4b26-b1ff-c59ce5601c84)
+
+### 🧪 Testing
+![Playwright](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/82ad59a8-0d4e-4a9e-954d-8b2e4a7ebefc)
+![Cypress](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7a194b38-edf5-4bf1-babb-c4f0b4497a9e)
+![Jest](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/2c09d711-14b1-494c-aca7-1f348224e1b3)
+
+### 🕓 Version Control
+![Git](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c1a5e7d5-ea1d-4f7b-89b9-84da3e9cdccc)
+![GitHub](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/60ade96b-a44c-44e8-8414-be6f1ca5681b)
+![GitLab](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ed169a41-655b-4c9c-a0f2-9dad20b9e2b7)
+![BitBucket](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/33a5bf60-69f6-4c9a-beaa-c7a13cb5f3a4)
+
+### 💳 Pasarelas de pago
+![PayPal](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/93287f68-93f8-42e9-822c-24d6a285b580)
+![Stripe](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/8a9a8aa7-5bae-4fbe-8218-a540360a3d03)
+
+### 🖥 Snippets
+![CodePen](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/e3f19919-a81b-4629-9bf4-2f6bb4674d59)
+
+### 🏅 Reconocimientos
+![Credly-white](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/cc6726d8-80fa-4fb1-9bb1-94af12dbc37b)
+
+### Conecta conmigo
+![Hacker Rank](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ad8d85fc-2542-48dd-b58f-69e8dc56f343)
+![LinkedIn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c5b7c485-550d-4ff0-aaec-14e3e14bd615)
 
 
 <!-- Estadísticas de GitHub -->
 ## 📊 Mis Estadísticas en GitHub
-![Estadísticas de GitHub](URL_DE_GITHUB_STATS)
-
-<!-- Emblemas de Tecnologías -->
-## 🔧 Tecnologías y Herramientas
-![JavaScript](URL_DEL_EMBLEMA)
-![Python](URL_DEL_EMBLEMA)
-... (otros emblemas)
-
-<!-- Lista de Proyectos Destacados -->
-## 🌟 Proyectos Destacados
-- [Nombre del Proyecto 1](URL_DEL_REPOSITORIO) - Breve descripción.
-- [Nombre del Proyecto 2](URL_DEL_REPOSITORIO) - Breve descripción.
-... (otros proyectos)
-
-<!-- Cómo Contactarme -->
-## 📫 ¿Cómo Contactarme?
-Puedes enviarme un email a [Tu Email](mailto:tu_email@example.com) o conectarte conmigo en [LinkedIn](URL_DE_TU_LINKEDIN).
-
-<!-- Certificaciones o Logros -->
-## 🏆 Certificaciones y Logros
-- Certificación 1
-- Logro 2
-... (otros logros)
-
-<!-- Contribuciones Open Source -->
-## 👥 Contribuciones Open Source
-(Lista tus contribuciones aquí)
-
-<!-- Animaciones CSS o JavaScript (opcional) -->
-<!-- Aquí puedes agregar código HTML/CSS/JS para animaciones -->
-
-<!-- Sección de Blog Posts -->
-## 📝 Mis Últimos Blogs
-- [Título del Blog 1](URL_DEL_BLOG)
-- [Título del Blog 2](URL_DEL_BLOG)
-... (otros blogs)
-
-<!-- Citas o Frases Inspiradoras -->
-> "Tu Cita Inspiradora Aquí"
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&show_icons=true)
 
 <!-- Gráficos Personalizados -->
 ## 📈 Gráfico de Habilidades
 (Inserta un gráfico personalizado aquí)
-
-<!-- Sección de Testimonios -->
-## 💬 Testimonios
-- "Testimonio 1"
-- "Testimonio 2"
-... (otros testimonios)
 
 <!-- Código QR -->
 ![Código QR](URL_DEL_CODIGO_QR)
