@@ -110,4 +110,4 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 
 
 ### Conecta conmigo
-![LinkedIn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c5b7c485-550d-4ff0-aaec-14e3e14bd615)
+![LinkedIn]([LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white))
