@@ -110,4 +110,4 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 
 
 ### Conecta conmigo
-![LinkedIn]([LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white))
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)
