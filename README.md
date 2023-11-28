@@ -1,113 +1,113 @@
 <!--
 Generador de header: https://leviarista.github.io/github-profile-header-generator/
 -->
-<!-- Banner Personalizado -->
 ![github-header-image](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/a91221ba-88c7-4da9-9e17-4663e3de8b15)
 
 ## 🔧 Tecnologías y Herramientas
-### 📋 Lenguajes
-![TypeScript](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/fa88c6e4-bb57-41a1-8ff0-b09b913a4027)
-![JavaScript](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/86b9999f-7c96-4851-8c2b-c1003515a52e)
-![HTML5](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/b50229e7-1225-4fec-890b-c0c9e89932ee)
-![CSS3](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ae93ddfb-7212-41ba-bbaf-454484920c69)
-![SASS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c2661aa9-1ffd-43db-a76d-d8c7687831da)
-![Java](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/9f49873e-a40f-46a3-95fe-993ed4152cf2)
-![Python](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/a4a4ff91-50bc-47ae-b181-529f2ad9838e)
-![C#](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/a3a7f278-6a22-4fde-8696-f9918aec8d0a)
-![C++](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/2791013e-30f4-4e40-96be-d4d250ee9fff)
-![GraphQL](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7c2f44c8-abb7-4330-bd79-39d2d783db10)
+
+### 🌐 Desarrollo Web Full Stack
+- **Front End**:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCEF40.svg?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Gatsby.js](https://img.shields.io/badge/Gatsby-663399.svg?style=flat&logo=Gatsby&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E0234E.svg?style=flat&logo=Angular&logoColor=white)
+
+- **Back End**:
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=NestJS&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)
+
+- **Frameworks CSS**:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=flat&logo=Bulma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=flat&logo=Ant-Design&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=flat&logo=MUI&logoColor=white)
+
+- **Bibliotecas**:
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat&logo=React-Query&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=flat&logo=React-Hook-Form&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat&logo=styled-components&logoColor=white)
 
 ### 💾 Bases de Datos
-![MongoDB](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/77698b92-1282-4630-a4c2-ac15135b2ae0)
-![Microsoft SQL Server](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ec3aa5c9-4261-42c4-92ef-ec17c5da7ce9)
-![PostgreSQL](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/62e9f544-fe69-475d-956b-674d88438b13)
-![MySQL](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6338c2f1-3a0e-4053-9fe2-16cb34e60251)
-![Firebase](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/255fab66-0b71-459f-9da1-3364986f5bdd)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 
-### 📚 Frameworks, Plataformas y Bibliotecas
-![Express.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/1da6d9a2-13bb-4c98-973f-a9452e868c12)
-![NestJS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/42b50ecd-a417-4f24-944b-dbf85a914176)
-![React](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/3832ddcd-a040-41a8-95ae-647598b42a1c)
-![React Query](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ba7c5eb1-9eee-4cbf-a1f2-a34087b33e8b)
-![React Router](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/463a1e72-cf2e-4618-aa13-2f92a80be0d8)
-![React Hook Form](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7afc95ef-d274-4172-9d47-2e638cc04b66)
-![Redux](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7a4eb092-f8d9-4d2f-b4dd-40e5fa4951d5)
-![Rollup.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/a49cbdf0-e3da-42a8-b8ac-eef89adf1396)
-![Angular](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/e47c275e-9710-4499-b424-e57d24df7aa4)
-![Android](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/93e915f8-65d6-4e3d-a933-dba87801eca6)
-![Ionic](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/5a5094ab-470e-4377-a47e-b71bb6e92dac)
-![Vue.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/60bb624b-fb92-4f1b-a0ee-d725e49e2f4c)
-![Gatsby.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/e0fc49d0-cec0-4876-afe8-72bcd0799f04)
-![Next.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/fdbae5af-d3fe-4c73-935f-e87328a23e9d)
-![Bootstrap](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ede55eae-ab42-458f-ae6a-1e6f0475ba2f)
-![Bulma](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/0d3b82ed-acf4-42bf-9023-148071420e42)
-![Tailwind CSS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/208992d1-0920-4237-b89b-599640e7d554)
-![Ant Design](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/fc90b42f-e19f-4fe3-bac1-eaae6a232884)
-![jQuery](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6c6a3166-af35-495c-a29c-2bb0164d1609)
-![JWT](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/b00cdea7-1a0d-4847-b29e-73425be554ca)
-![MUI](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6e69eabf-bd60-4772-9ebe-9feed1c275c2)
-![npm](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/6ec55853-0335-4db6-aea8-be0e8fdf0c0f)
-![Node.js](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/3688f234-a205-48c6-afac-73b30d972cf8)
-![Strapi](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/46a4a2af-b46d-4785-9efc-5baac4599bd4)
-![Styled Components](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/76173423-1497-4870-a571-bb84bd4c01fa)
-![Vite](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/dc55bf6e-b74f-4e02-9db0-0feae344b5c6)
-![Webpack](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ac7a0c0d-359c-439f-9dd1-735d9f2a1ff6)
-![Yarn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/aebf183a-b49c-4570-a5fe-3e4d438736f8)
-![Prisma](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/02b44364-e8ef-45b0-a1b6-eca2e97a29cf)
-![Sequelize](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/237608e4-484a-49fd-8c47-f16eacfdf533)
-![Docker](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7cd3ac29-c2b0-4315-a647-5c56281e48c5)
-![Swagger](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ce83050c-d73d-48a3-9ad5-e40dd730bdc9)
+### 🚀 Empaquetadores y Herramientas de Construcción
+![Rollup.js](https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=flat&logo=rollupdotjs&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat&logo=Webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white)
 
-### Plataformas de Gestión
-![Jira](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/59dcaa8e-3a45-44ad-94ef-0dd480cf6948)
-![Trello](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ba6b3dfb-be09-46f3-9a7a-3200b3ccf404)
+### 📚 ORM & ODM
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=flat&logo=Sequelize&logoColor=white)
+![Mongoose.js](https://img.shields.io/badge/Mongoose-880000.svg?style=flat&logo=Mongoose&logoColor=white)
 
-### ☁️ Hosting/Cloud
-![AWS](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/668e34b7-e12e-4d3b-92d0-a033125b2d9f)
-![Firebase](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/255fab66-0b71-459f-9da1-3364986f5bdd)
-![Heroku](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/4f45a6e6-a429-4851-8b27-4bbfe194e76e)
-![Digital Ocean](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/1881d4da-10f2-4167-bdd8-d3cd71082aba)
-![GitHub Pages](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/f5c56703-9771-44ea-86d3-0ca1af68531d)
-![Netlify](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/30fd48e2-b182-4b73-94f4-e90d83678386)
-![Vercel](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/11608e17-d987-4f20-b687-0d291647ee5e)
+### 🧰 Manejadores de Paquetes
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=flat&logo=Yarn&logoColor=white)
 
-### 🔬 CI
-![CircleCI](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/daf2661c-316b-4f5d-bf6d-6e57cd145eb5)
-![GitHub Actions](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/eabf6a4b-749c-4b26-b1ff-c59ce5601c84)
+### 🐳 Contenedores y Orquestación
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)
+
+### 📝 Documentación y APIs
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=black)
+
+### 🖥️ CMS y Plataformas de Gestión
+![Strapi](https://img.shields.io/badge/Strapi-4945FF.svg?style=flat&logo=Strapi&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white)
+
+### ☁️ Hosting y Servicios en la Nube
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat&logo=Amazon-AWS&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2088FF.svg?style=flat&logo=Firebase&logoColor=yellow)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat&logo=DigitalOcean&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=Netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)
+
+### 🔬 CI/CD
+![CircleCI](https://img.shields.io/badge/CircleCI-343434.svg?style=flat&logo=CircleCI&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white)
 
 ### 🧪 Testing
-![Playwright](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/82ad59a8-0d4e-4a9e-954d-8b2e4a7ebefc)
-![Cypress](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/7a194b38-edf5-4bf1-babb-c4f0b4497a9e)
-![Jest](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/2c09d711-14b1-494c-aca7-1f348224e1b3)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat&logo=Playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=flat&logo=Cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=flat&logo=Jest&logoColor=white)
 
-### 🕓 Version Control
-![Git](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c1a5e7d5-ea1d-4f7b-89b9-84da3e9cdccc)
-![GitHub](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/60ade96b-a44c-44e8-8414-be6f1ca5681b)
-![GitLab](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ed169a41-655b-4c9c-a0f2-9dad20b9e2b7)
-![BitBucket](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/33a5bf60-69f6-4c9a-beaa-c7a13cb5f3a4)
+### 🕓 Sistemas de Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=GitLab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat&logo=Bitbucket&logoColor=white)
 
 ### 💳 Pasarelas de pago
-![PayPal](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/93287f68-93f8-42e9-822c-24d6a285b580)
-![Stripe](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/8a9a8aa7-5bae-4fbe-8218-a540360a3d03)
+![PayPal](https://img.shields.io/badge/PayPal-003087.svg?style=flat&logo=PayPal&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-7A1FA2.svg?style=flat&logo=Stripe&logoColor=white)
 
-### 🖥 Snippets
-![CodePen](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/e3f19919-a81b-4629-9bf4-2f6bb4674d59)
+### 🖥 Snippets y Código
+![CodePen](https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white)
 
 ### 🏅 Reconocimientos
-![Credly-white](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/cc6726d8-80fa-4fb1-9bb1-94af12dbc37b)
-
-### Conecta conmigo
-![Hacker Rank](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/ad8d85fc-2542-48dd-b58f-69e8dc56f343)
-![LinkedIn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c5b7c485-550d-4ff0-aaec-14e3e14bd615)
-
+![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white)
+![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=flat&logo=HackerRank&logoColor=white)
 
 <!-- Estadísticas de GitHub -->
-## 📊 Mis Estadísticas en GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&show_icons=true)
+## 📊 Mis Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isc-joserodriguez&theme=react)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2)
 
-<!-- Gráficos Personalizados -->
-## 📈 Gráfico de Habilidades
-(Inserta un gráfico personalizado aquí)
 
-<!-- Código QR -->
-![Código QR](URL_DEL_CODIGO_QR)
+### Conecta conmigo
+![LinkedIn](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/c5b7c485-550d-4ff0-aaec-14e3e14bd615)
