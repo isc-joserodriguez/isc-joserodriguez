@@ -146,7 +146,7 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 <a href="https://www.linkedin.com/in/isc-joserodriguez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.credly.com/users/isc-joserodriguez/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white" alt="Credly" /></a>
 <a href="https://www.hackerrank.com/profile/isc_jrodriguez" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=flat&logo=HackerRank&logoColor=white" alt="Hacker Rank" /></a>
-<a href="https://wakatime.com/@isc_joserodriguez" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime" /></a>
+<a href="https://wakatime.com/@isc_joserodriguez" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000.svg?style=flat&logo=WakaTime&logoColor=white" alt="Wakatime" /></a>
 <a href="https://codepen.io/isc-joserodriguez" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="CodePen" /></a>
   
 <h2>📊 Mis Estadísticas:</h2>
