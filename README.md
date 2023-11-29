@@ -4,13 +4,18 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 ![github-header-image](https://github.com/isc-joserodriguez/isc-joserodriguez/assets/26130533/a91221ba-88c7-4da9-9e17-4663e3de8b15)
 
 ## 🔧 Tech Stack
-- **Lenguajes**:
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCEF40.svg?style=flat&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
+<ul>
+  <li>
+    <b>Lenguajes</b>:
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-FCEF40.svg?style=flat&logo=JavaScript&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white" /></a>
+  </li>
   
+</ul>
+
 - **Front End**:
   - **🖼️ Frameworks**: 
     ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
@@ -96,10 +101,9 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 ![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=flat&logo=HackerRank&logoColor=white)
 
 ## 📊 Mis Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isc-joserodriguez&theme=react)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2)
 
 
 ### Conecta conmigo
