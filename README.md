@@ -12,18 +12,18 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
   
 - **Front End**:
-  - **Frameworks**: 
+  - **🖼️ Frameworks**: 
     ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
     ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
     ![Gatsby.js](https://img.shields.io/badge/Gatsby-663399.svg?style=flat&logo=Gatsby&logoColor=white)
     ![Angular](https://img.shields.io/badge/Angular-E0234E.svg?style=flat&logo=Angular&logoColor=white)
-  - **Frameworks CSS**:
+  - **🎨 Frameworks CSS**:
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
     ![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=flat&logo=Bulma&logoColor=white)
     ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)
     ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=flat&logo=Ant-Design&logoColor=white)
     ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=flat&logo=MUI&logoColor=white)
-  - **Bibliotecas**:
+  - **📚 Bibliotecas**:
     ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
     ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat&logo=React-Query&logoColor=white)
     ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white)
@@ -33,15 +33,15 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
     
 - **Back End**:
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-  - **Frameworks**:
+  - **🖼️ Frameworks**:
     ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=NestJS&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)
-  - **💾 Bases de Datos**:
+  - **💽 Bases de Datos**:
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)
     ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
-  - **📚 ORM & ODM**:
+  - **🧩 ORM & ODM**:
     ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=Prisma&logoColor=white)
     ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=flat&logo=Sequelize&logoColor=white)
     ![Mongoose.js](https://img.shields.io/badge/Mongoose-880000.svg?style=flat&logo=Mongoose&logoColor=white)
