@@ -150,6 +150,6 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 <a href="https://codepen.io/isc-joserodriguez"><img src="https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="CodePen" /></a>
   
 <h2>📊 Mis Estadísticas:</h2>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/></a>
 <br/>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2" alt="Wakatime Stats" /></a>
