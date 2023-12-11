@@ -59,15 +59,6 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" alt="MySQL" /></a>
     </li>
     <li>
-      <b>📚 Bibliotecas:</b>
-      <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white" alt="Redux" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat&logo=React-Query&logoColor=white" alt="React Query" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white" alt="React Router" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=flat&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat&logo=styled-components&logoColor=white" alt="Styled Components" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat&logo=Storybook&logoColor=white" alt="Styled Components" /></a>
-    </li>
-    <li>
       <b>🧩 ORM & ODM:</b>
       <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=Prisma&logoColor=white" alt="Prisma" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Mongoose-880000.svg?style=flat&logo=Mongoose&logoColor=white" alt="Mongoose.js" /></a>
