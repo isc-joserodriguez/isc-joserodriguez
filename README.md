@@ -145,12 +145,6 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 <br/>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2" alt="Wakatime Stats" /></a>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
-  &nbsp;Now Playing&nbsp;
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
-</h2>
-
 <div align="center">
 
 <p align="center">
