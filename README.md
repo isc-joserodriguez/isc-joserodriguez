@@ -144,3 +144,17 @@ Generador de header: https://leviarista.github.io/github-profile-header-generato
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isc-joserodriguez&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/></a>
 <br/>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isc_joserodriguez&theme=react&layout=compact&v=2" alt="Wakatime Stats" /></a>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
+  &nbsp;Now Playing&nbsp;
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12169324315&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12169324315&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
