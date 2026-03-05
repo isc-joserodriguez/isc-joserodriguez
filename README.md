@@ -55,20 +55,21 @@
   &nbsp;About Me
 </h2>
 
-Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web y mobile end-to-end, liderando equipos y disenando soluciones escalables en cloud, CI/CD y flujos de AI aplicados a producto.
+Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web y mobile end-to-end, liderando equipos y diseñando soluciones escalables en cloud, CI/CD y flujos de AI aplicados a producto.
 
 - **🏢** &nbsp;Tech Lead en **Blackstone Studio**
-- **📍** &nbsp;Tepic, Nayarit, Mexico
-- **🚀** &nbsp;**30+ proyectos** entregados | **20+ tecnologias** dominadas
-- **👥** &nbsp;Coordino equipos de **5+ developers** con metodologias agiles
+- **📍** &nbsp;Tepic, Nayarit, México
+- **🚀** &nbsp;**30+ proyectos** entregados | **20+ tecnologías** dominadas
+- **👥** &nbsp;Coordino equipos de **5+ developers** con metodologías ágiles
 - **🎓** &nbsp;Mentor de **30+ estudiantes** en bootcamps Full Stack
 - **🧠** &nbsp;Apasionado por **Clean Architecture, DDD y SOLID**
 
-**Key Achievements:**
-- 🚀 Reduje tiempos de deploy de dias a minutos con CI/CD automation
-- 🏗️ Migre un monolito PHP a **NestJS + Prisma** con zero downtime
-- 🛠️ Cree CLI tools para despliegues completos de entornos en **AWS**
-- 💳 Integre sistemas de pago (**Stripe**) automatizando billing y suscripciones
+**Logros Clave:**
+
+- 🚀 Reduje tiempos de deploy de días a minutos con CI/CD automation
+- 🏗️ Migré un monolito PHP a **NestJS + Prisma** con zero downtime
+- 🛠️ Creé CLI tools para despliegues completos de entornos en **AWS**
+- 💳 Integré sistemas de pago (**Stripe**) automatizando billing y suscripciones
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -209,28 +210,30 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY GRAPH                            -->
+<!--                     CERTIFICATIONS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  &nbsp;Contribution Graph&nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  🏅&nbsp;Certificaciones&nbsp;🏅
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isc-joserodriguez&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+  <!-- Replace the URLs below with your actual Credly badge image URLs -->
+  <!-- Go to Credly > Your Badge > Share > click "Download Image" or copy the image URL -->
+  <a href="https://www.credly.com/users/isc-joserodriguez/badges">
+    <img src="https://img.shields.io/badge/View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View Credly Badges"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        STATISTICS                               -->
+<!--                   GITHUB ANALYTICS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  &nbsp;GitHub Analytics&nbsp;
+  &nbsp;Analíticas de GitHub&nbsp;
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
@@ -258,14 +261,18 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTIONS SNAKE                        -->
+<!--                      CONTRIBUTIONS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30">
-  &nbsp;Contributions&nbsp;
+  &nbsp;Contribuciones&nbsp;
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30">
 </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isc-joserodriguez&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+</p>
 
 <p align="center">
   <picture>
@@ -283,7 +290,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
-  &nbsp;Now Playing&nbsp;
+  &nbsp;Escuchando Ahora&nbsp;
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
 </h2>
 
