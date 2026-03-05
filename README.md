@@ -55,7 +55,7 @@
   &nbsp;About Me
 </h2>
 
-Full-Stack Tech Lead con **1+ años de experiencia** desarrollando productos web y mobile end-to-end, liderando equipos y disenando soluciones escalables en cloud, CI/CD y flujos de AI aplicados a producto.
+Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web y mobile end-to-end, liderando equipos y disenando soluciones escalables en cloud, CI/CD y flujos de AI aplicados a producto.
 
 - **🏢** &nbsp;Tech Lead en **Blackstone Studio**
 - **📍** &nbsp;Tepic, Nayarit, Mexico
