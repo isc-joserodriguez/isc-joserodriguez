@@ -3,11 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:61DAFB&height=200&section=header&text=Jos%C3%A9%20Rodriguez&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Tech%20Lead%20%7C%20NestJS%20%7C%20React%20%7C%20AWS&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:61DAFB&height=200&section=header&text=Jos%C3%A9%20Rodriguez&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Full%20Stack%20AI%20Engineer%20%7C%20Tech%20Lead&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=820&lines=Full-Stack+Tech+Lead+%F0%9F%9A%80;8%2B+years+building+scalable+products;NestJS+%E2%80%A2+React+%E2%80%A2+React+Native+%E2%80%A2+Next.js;AWS+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Prisma;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Agile+Teams" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=820&lines=Senior+Full+Stack+AI+Engineer+%F0%9F%9A%80;8%2B+a%C3%B1os+construyendo+productos+escalables;Flujos+AI-Native+%E2%80%A2+Agentes+%E2%80%A2+RAG+%E2%80%A2+MCP+%E2%80%A2+SDD;NestJS+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -24,16 +24,6 @@
 <a href="https://www.hackerrank.com/profile/isc_jrodriguez">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://www.codewars.com/users/isc-joserodriguez">
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
-</a>
-<a href="https://wakatime.com/@isc_joserodriguez">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
-</a>
-<a href="https://codepen.io/isc-joserodriguez">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=isc-joserodriguez&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
@@ -42,7 +32,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                                -->
@@ -51,23 +41,25 @@
 
 ## 👋 Sobre Mí
 
-Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web y mobile end-to-end, liderando equipos y diseñando soluciones escalables en cloud, CI/CD y flujos de AI aplicados a producto.
+**Tech Lead | Senior Full Stack AI Engineer** con **8+ años de experiencia** desarrollando productos web y mobile end-to-end. Diseño **flujos de desarrollo AI-Native** (agentes de IA, MCP, RAG, SDD) que aceleran el ciclo completo de desarrollo, sobre una base sólida de arquitectura backend, cloud y liderazgo de equipos.
 
 - 🏢 &nbsp;Tech Lead en **Blackstone Studio**
 - 📍 &nbsp;Tepic, Nayarit, México
+- 🤖 &nbsp;Diseño **flujos AI-Native** con **multiagentes, Skills y SDD** en producción
 - 🚀 &nbsp;**30+ proyectos** entregados en web y mobile
-- 👥 &nbsp;Coordino equipos de **5+ developers** con metodologías ágiles
-- 🎓 &nbsp;Mentor de **30+ estudiantes** en bootcamps Full Stack
-- 🧠 &nbsp;Apasionado por **Clean Architecture, DDD y SOLID**
+- 👥 &nbsp;Lidero equipos de **hasta 8** (devs, diseño y QA) con metodologías ágiles
+- 🎓 &nbsp;Mentor de **40+ estudiantes** en bootcamps Full Stack
+- 🧠 &nbsp;Apasionado por **Clean Architecture, DDD, SOLID** y **desarrollo AI-Native**
 
 **Logros Clave:**
 
-- 🚀 Reduje tiempos de deploy de días a minutos con CI/CD automation
-- 🏗️ Migré un monolito PHP a **NestJS + Prisma** con zero downtime
+- 🤖 Diseñé y llevé a producción una **plataforma de agentes de IA** que automatiza el ciclo de desarrollo end-to-end (análisis, código, testing y documentación)
+- 🏗️ Migré un core legacy en PHP (CodeIgniter, 40+ módulos) a **NestJS + Prisma + TypeScript** con flujos asistidos por IA, zero downtime
+- 🚀 Reduje tiempos de deploy de días a horas con CI/CD automation (AWS + CircleCI)
 - 🛠️ Creé CLI tools para despliegues completos de entornos en **AWS**
 - 💳 Integré sistemas de pago (**Stripe**) automatizando billing y suscripciones
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONSTRUYENDO ACTUALMENTE                       -->
@@ -75,29 +67,29 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 
 ## 🔭 Construyendo Actualmente
 
-- 🤖 Flujos con **LLMs** aplicados a features reales de producto en **Blackstone Studio**
-- 🏗️ Un starter open-source de **NestJS + Prisma con Clean Architecture** *(próximamente)*
-- ⚡ Una **CLI genérica para aprovisionar entornos en AWS** *(próximamente)*
+- 🤖 **Flujos de desarrollo AI-Native** (agentes, RAG, MCP, SDD) aplicados a producto real en **Blackstone Studio**
 
-<!-- ═══════════════════════════════════════════════════════════════
-                     PROYECTOS DESTACADOS
-  Descomenta esta sección cuando tus repos escaparate sean públicos.
-  Reemplaza REPO_1 / REPO_2 con los nombres reales de los repos y
-  fíjalos también en tu perfil (Profile > Customize your pins).
+**Productos propios** *(en desarrollo)*:
+
+- 🛒 Plataforma **POS** (ventas, inventario y operación de negocio)
+- 💰 Gestor de **préstamos** end-to-end (de la solicitud de crédito a los pagos)
+- 🚗 Plataforma de **renta de autos** (flujo completo de reservas y pagos)
+- 🎮 **Juego web 2D** (shooter)
+- 📱 **App móvil de consumo** *(en stealth)* 🤫
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 ## 🚀 Proyectos Destacados
 
+La mayoría de mi trabajo son productos de cliente y proyectos privados. Tengo **12+ casos** documentados (un SaaS de compliance con flujos de IA, plataformas a medida, sitios corporativos y más) en mi portafolio:
+
 <p align="center">
-  <a href="https://github.com/isc-joserodriguez/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isc-joserodriguez&repo=REPO_1&theme=github_dark&hide_border=true" alt="REPO_1"/>
-  </a>
-  <a href="https://github.com/isc-joserodriguez/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isc-joserodriguez&repo=REPO_2&theme=github_dark&hide_border=true" alt="REPO_2"/>
+  <a href="https://www.jose-rodriguez.dev/#proyectos">
+    <img src="https://img.shields.io/badge/Ver_proyectos_en_mi_portafolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver proyectos"/>
   </a>
 </p>
-═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         TECH STACK                              -->
@@ -105,7 +97,24 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 
 ## 🛠️ Tech Stack
 
-**Core — con lo que trabajo día a día:**
+**Ingeniería de IA (mi diferenciador):**
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1f6feb?style=for-the-badge)
+![Agentes IA](https://img.shields.io/badge/Agentes_IA-1f6feb?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1f6feb?style=for-the-badge)
+![SDD](https://img.shields.io/badge/SDD-1f6feb?style=for-the-badge)
+
+</div>
+
+**Core, con lo que trabajo día a día:**
 
 <div align="center">
 
@@ -120,6 +129,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
@@ -180,7 +190,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
 </div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CERTIFICATIONS                              -->
@@ -212,7 +222,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB ANALYTICS                              -->
@@ -233,7 +243,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         SPOTIFY                                 -->
@@ -247,7 +257,7 @@ Full-Stack Tech Lead con **8+ años de experiencia** desarrollando productos web
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:61DAFB&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         CONECTEMOS                              -->
