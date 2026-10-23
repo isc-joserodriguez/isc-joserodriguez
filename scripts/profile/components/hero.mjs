@@ -25,7 +25,11 @@ function typingTerminal(doc, { x, y, w, hgt, lines }) {
   const room = x + w - 24 - textX
   let size = 14
   while (size > 11 && lines.some((l) => measure(l, 'mono', size) + 12 > room)) size -= 0.5
-  const slot = 5 // seconds per line
+  // Each line's slot: type 40% → hold 30% → backspace 16% → empty prompt 14%.
+  const slot = 6 // seconds per line
+  const TYPED = 0.4
+  const ERASE = 0.7
+  const ERASED = 0.86
   const cycle = slot * lines.length
   const share = 100 / lines.length
   const cursor = blinkStyle(doc, { dur: 1.05 })
@@ -37,7 +41,7 @@ function typingTerminal(doc, { x, y, w, hgt, lines }) {
     const chars = [...line].length
     const start = n(i * share)
     const end = n((i + 1) * share)
-    const done = n(i * share + share * 0.42)
+    const at = (f) => n(i * share + share * f)
     const vis = `jr-line-${i}`
     const typing = `jr-type-${i}`
     // Visible only during its slot.
@@ -46,10 +50,15 @@ function typingTerminal(doc, { x, y, w, hgt, lines }) {
         ? `0%,${n(end - 0.01)}%{opacity:1}${end}%,100%{opacity:0}`
         : `0%,${n(start - 0.01)}%{opacity:0}${start}%,${n(end - 0.01)}%{opacity:1}${end}%,100%{opacity:0}`
     doc.css(vis, `@keyframes ${vis}{${visKeys}}`)
-    // A cover in the terminal colour slides right, uncovering one character per step.
+    // A cover in the terminal colour slides right one character per step (typing), holds, then
+    // slides back the same way (backspace), leaving an empty prompt before the next line.
+    const step = `animation-timing-function:steps(${chars},end)`
     doc.css(
       typing,
-      `@keyframes ${typing}{0%,${start}%{transform:translateX(0);animation-timing-function:steps(${chars},end)}${done}%,100%{transform:translateX(${n(tw)}px)}}`,
+      `@keyframes ${typing}{0%,${start}%{transform:translateX(0);${step}}` +
+        `${at(TYPED)}%{transform:translateX(${n(tw)}px)}` +
+        `${at(ERASE)}%{transform:translateX(${n(tw)}px);${step}}` +
+        `${at(ERASED)}%,100%{transform:translateX(0)}}`,
     )
     typed.push(
       g(

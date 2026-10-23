@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-23T20:21:41.678Z",
+ "generatedAt": "2026-10-23T20:35:38.649Z",
  "sources": {
   "github": "live",
-  "githubAt": "2026-10-23T20:21:41.678Z"
+  "githubAt": "2026-10-23T20:35:38.649Z"
  },
  "user": {
   "login": "isc-joserodriguez",
@@ -15,7 +15,7 @@
   "privateRepos": 33,
   "totalRepos": 172,
   "stars": 6,
-  "yearsOnGitHub": 9.644581675349203
+  "yearsOnGitHub": 9.644608197359748
  },
  "contributions": {
   "allTime": 12697,
@@ -26,12 +26,12 @@
    {
     "year": 2017,
     "total": 63,
-    "commits": 56,
+    "commits": 49,
     "pullRequests": 3,
     "issues": 0,
     "reviews": 0,
     "repositories": 3,
-    "restricted": 0
+    "restricted": 7
    },
    {
     "year": 2018,
@@ -60,68 +60,68 @@
     "pullRequests": 5,
     "issues": 0,
     "reviews": 0,
-    "repositories": 16,
-    "restricted": 0
+    "repositories": 15,
+    "restricted": 1
    },
    {
     "year": 2021,
     "total": 1070,
-    "commits": 645,
+    "commits": 606,
     "pullRequests": 71,
     "issues": 1,
     "reviews": 10,
-    "repositories": 52,
-    "restricted": 289
+    "repositories": 44,
+    "restricted": 338
    },
    {
     "year": 2022,
     "total": 873,
-    "commits": 322,
+    "commits": 295,
     "pullRequests": 3,
     "issues": 0,
     "reviews": 0,
-    "repositories": 41,
-    "restricted": 507
+    "repositories": 37,
+    "restricted": 538
    },
    {
     "year": 2023,
     "total": 3553,
-    "commits": 1436,
-    "pullRequests": 519,
+    "commits": 298,
+    "pullRequests": 13,
     "issues": 4,
-    "reviews": 105,
-    "repositories": 27,
-    "restricted": 1461
+    "reviews": 0,
+    "repositories": 25,
+    "restricted": 3213
    },
    {
     "year": 2024,
     "total": 2336,
-    "commits": 327,
-    "pullRequests": 270,
-    "issues": 312,
-    "reviews": 511,
-    "repositories": 1,
-    "restricted": 914
+    "commits": 0,
+    "pullRequests": 0,
+    "issues": 0,
+    "reviews": 0,
+    "repositories": 0,
+    "restricted": 2336
    },
    {
     "year": 2025,
     "total": 1391,
-    "commits": 474,
-    "pullRequests": 337,
-    "issues": 118,
-    "reviews": 454,
-    "repositories": 7,
-    "restricted": 0
+    "commits": 0,
+    "pullRequests": 0,
+    "issues": 0,
+    "reviews": 0,
+    "repositories": 0,
+    "restricted": 1391
    },
    {
     "year": 2026,
     "total": 2993,
-    "commits": 2067,
-    "pullRequests": 529,
-    "issues": 116,
-    "reviews": 271,
-    "repositories": 10,
-    "restricted": 0
+    "commits": 10,
+    "pullRequests": 0,
+    "issues": 0,
+    "reviews": 0,
+    "repositories": 0,
+    "restricted": 2983
    }
   ],
   "calendar": [

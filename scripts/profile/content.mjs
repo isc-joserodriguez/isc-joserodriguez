@@ -11,7 +11,10 @@ export const profile = {
   roles: ['Tech Lead', 'Senior Full Stack AI Engineer', 'AI-Native Workflows', 'Mentor'],
   company: 'Blackstone Studio',
   location: 'Tepic, Nayarit, MX',
+  locationFull: 'Tepic, Nayarit, México',
   status: 'Open to new opportunities',
+  // Real-text keywords for search engines (the panels are images): README caption and résumé.
+  keywords: ['TypeScript', 'NestJS', 'React', 'Next.js', 'Node.js', 'PostgreSQL', 'AWS'],
   headline: 'I design AI-native development workflows and ship scalable web and mobile products, end to end.',
   intro: (years) =>
     `Tech Lead and Senior Full Stack AI Engineer with ${years}+ years building web and mobile products end to end. ` +
