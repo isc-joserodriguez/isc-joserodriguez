@@ -1,0 +1,57 @@
+name: Credly badges
+
+# On the 1st of every month: pull the Credly badges (assets/generated/credly.json), re-render the
+# credentials panel and the README, and commit if anything changed.
+
+on:
+  schedule:
+    - cron: "0 10 1 * *" # 03:00 in Tepic (UTC−7), first day of the month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci --omit=dev
+
+      - name: Refresh Credly badges and rebuild
+        run: node scripts/profile/build.mjs --credly
+
+      - name: Check panels
+        run: node scripts/profile/tools/check.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- assets README.md
+          if git diff --staged --quiet; then
+            echo "badges unchanged"
+            exit 0
+          fi
+          git commit -q -m "chore(profile): refresh Credly badges"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            echo "push rejected (attempt $attempt), rebasing"
+            sleep $((attempt * 5))
+            git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}"
+          done
+          echo "::error::could not push the refreshed badges"
+          exit 1

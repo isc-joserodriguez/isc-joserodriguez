@@ -1,0 +1,4 @@
+# Generated files are compared byte for byte by scripts/profile/build.mjs: keep LF everywhere.
+* text=auto eol=lf
+*.ttf binary
+*.png binary

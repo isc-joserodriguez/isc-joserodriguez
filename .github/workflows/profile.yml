@@ -1,0 +1,93 @@
+name: Profile
+
+# Regenerates every panel under assets/, the 3D contribution chart and README.md from live
+# GitHub data (scripts/profile/build.mjs), gates them with tools/check.mjs and commits the result.
+# Credly badges are refreshed separately, once a month (credly.yml).
+
+on:
+  schedule:
+    - cron: "30 9 * * *" # 02:30 in Tepic (UTC−7)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/profile/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/3d-contrib-settings.json"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Classic PAT of the profile owner (scopes: repo, read:user), so private contributions count.
+      # Without it the build renders from the cached assets/generated/metrics.json.
+      GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci --omit=dev
+
+      - name: Build profile panels
+        run: node scripts/profile/build.mjs
+
+      - name: Check panels
+        run: node scripts/profile/tools/check.mjs
+
+      - name: 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-contrib-settings.json
+          MAX_REPOS: 200
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- assets README.md profile-3d-contrib
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -q -m "chore(profile): refresh generated panels"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            echo "push rejected (attempt $attempt), rebasing"
+            sleep $((attempt * 5))
+            git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}"
+          done
+          echo "::error::could not push the refreshed panels"
+          exit 1
+
+      # Runs after publishing, so the (cached, still valid) panels go out either way. Data that
+      # has not been refreshed for 3 days means METRICS_TOKEN is missing, expired or revoked.
+      - name: Check data freshness
+        run: |
+          node --input-type=module -e "
+            import fs from 'node:fs'
+            const m = JSON.parse(fs.readFileSync('assets/generated/metrics.json', 'utf8'))
+            const at = Date.parse(m.sources?.githubAt ?? '')
+            const days = (Date.now() - at) / 86400000
+            console.log('last live GitHub fetch:', m.sources?.githubAt, '(' + days.toFixed(1) + ' days ago)')
+            if (!(days <= 3)) {
+              console.log('::error title=Stale GitHub data::No live fetch for ' + days.toFixed(1) + ' days. Renew METRICS_TOKEN (Settings → Secrets and variables → Actions).')
+              process.exit(1)
+            }
+          "

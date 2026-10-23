@@ -1,0 +1,14 @@
+# Dependencies (the generator installs them with npm ci)
+node_modules/
+
+# Local tooling output
+.playwright-mcp/
+.preview/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
