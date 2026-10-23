@@ -72,10 +72,10 @@
   <img src="./assets/sections/activity.svg" width="100%" alt="05 GitHub activity: Consistency, measured daily." />
 </picture>
 <p align="center">
-<img src="./assets/generated/impact.svg" width="100%" alt="GitHub impact over the last 12 months, including private repositories: 3,359 contributions (+154% vs the prior year), 12,697 all-time, 1,738 pull requests (97% merged), 172 repositories, a 18-day current streak (longest 61), best day 115 contributions, 9.2 per day on average, busiest on Friday." />
+<img src="./assets/generated/impact.svg" width="100%" alt="GitHub impact over the last 12 months, including private repositories: 3,360 contributions (+154% vs the prior year), 12,698 all-time, 1,738 pull requests (97% merged), 172 repositories, a 18-day current streak (longest 61), best day 115 contributions, 9.2 per day on average, busiest on Friday." />
 </p>
 <p align="center">
-<img src="./assets/generated/activity.svg" width="100%" alt="3,359 contributions between Oct 24, 2025 – Oct 23, 2026, on 294 active days, peaking at 115 on May 1, 2026. Monthly totals: Nov 2025 191, Dec 2025 174, Jan 2026 154, Feb 2026 63, Mar 2026 357, Apr 2026 346, May 2026 481, Jun 2026 557, Jul 2026 194, Aug 2026 339, Sep 2026 405, Oct 2026 97. By weekday: Sunday 260, Monday 521, Tuesday 500, Wednesday 498, Thursday 524, Friday 723, Saturday 333. By year: 2017 63, 2018 26, 2019 328, 2020 64, 2021 1070, 2022 873, 2023 3553, 2024 2336, 2025 1391, 2026 2993." />
+<img src="./assets/generated/activity.svg" width="100%" alt="3,360 contributions between Oct 24, 2025 – Oct 23, 2026, on 294 active days, peaking at 115 on May 1, 2026. Monthly totals: Nov 2025 191, Dec 2025 174, Jan 2026 154, Feb 2026 63, Mar 2026 357, Apr 2026 346, May 2026 481, Jun 2026 557, Jul 2026 194, Aug 2026 339, Sep 2026 405, Oct 2026 98. By weekday: Sunday 260, Monday 521, Tuesday 500, Wednesday 498, Thursday 524, Friday 724, Saturday 333. By year: 2017 63, 2018 26, 2019 328, 2020 64, 2021 1070, 2022 873, 2023 3553, 2024 2336, 2025 1391, 2026 2994." />
 </p>
 <p align="center">
 <picture>
@@ -185,6 +185,6 @@ Spec-driven development with multi-agent workflows: a spec and a plan feed an or
 
 #### GitHub, last 12 months
 
-3,359 contributions on 294 active days · 1,738 pull requests (97% merged) · 172 repositories · longest streak 61 days
+3,360 contributions on 294 active days · 1,738 pull requests (97% merged) · 172 repositories · longest streak 61 days
 
 </details>
