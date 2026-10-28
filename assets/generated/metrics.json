@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-27T09:43:38.400Z",
+ "generatedAt": "2026-10-28T09:35:20.547Z",
  "sources": {
   "github": "live",
-  "githubAt": "2026-10-27T09:43:38.400Z"
+  "githubAt": "2026-10-28T09:35:20.547Z"
  },
  "user": {
   "login": "isc-joserodriguez",
@@ -15,13 +15,13 @@
   "privateRepos": 34,
   "totalRepos": 173,
   "stars": 6,
-  "yearsOnGitHub": 9.654319954622657
+  "yearsOnGitHub": 9.657042029400207
  },
  "contributions": {
-  "allTime": 12860,
-  "lastYear": 3521,
+  "allTime": 12892,
+  "lastYear": 3553,
   "previousYear": 1307,
-  "yoyGrowth": 1.693955623565417,
+  "yoyGrowth": 1.7184391736801836,
   "byYear": [
    {
     "year": 2017,
@@ -115,8 +115,8 @@
    },
    {
     "year": 2026,
-    "total": 3156,
-    "commits": 2210,
+    "total": 3188,
+    "commits": 2242,
     "pullRequests": 536,
     "issues": 122,
     "reviews": 277,
@@ -125,11 +125,6 @@
    }
   ],
   "calendar": [
-   {
-    "date": "2025-10-28",
-    "count": 0,
-    "level": 0
-   },
    {
     "date": "2025-10-29",
     "count": 0,
@@ -1947,6 +1942,11 @@
    },
    {
     "date": "2026-10-27",
+    "count": 32,
+    "level": 2
+   },
+   {
+    "date": "2026-10-28",
     "count": 0,
     "level": 0
    }
@@ -1998,13 +1998,13 @@
    },
    {
     "month": "2026-10",
-    "total": 260
+    "total": 292
    }
   ],
   "weekday": [
    387,
    540,
-   500,
+   532,
    498,
    524,
    735,
@@ -2012,9 +2012,9 @@
   ],
   "busiestWeekday": 5,
   "currentStreak": {
-   "days": 21,
+   "days": 22,
    "start": "2026-10-06",
-   "end": "2026-10-26"
+   "end": "2026-10-27"
   },
   "longestStreak": {
    "days": 61,
@@ -2029,15 +2029,15 @@
    "date": "2026-10-25",
    "count": 127
   },
-  "activeDays": 296,
-  "dailyAverage": 9.646575342465754,
+  "activeDays": 297,
+  "dailyAverage": 9.734246575342466,
   "windowDays": 365
  },
  "pullRequests": {
   "total": 1745,
-  "merged": 1693,
-  "open": 6,
-  "mergeRate": 0.9702005730659026
+  "merged": 1694,
+  "open": 5,
+  "mergeRate": 0.9707736389684813
  },
  "issues": {
   "total": 557
@@ -2047,62 +2047,62 @@
   {
    "name": "JavaScript",
    "color": "#f1e05a",
-   "bytes": 5985155,
-   "share": 0.3949701311986185
+   "bytes": 6015656,
+   "share": 0.3958500226955585
   },
   {
    "name": "TypeScript",
    "color": "#3178c6",
    "bytes": 5516432,
-   "share": 0.36403833664930274
+   "share": 0.3629994355392837
   },
   {
    "name": "HTML",
    "color": "#e34c26",
    "bytes": 1633340,
-   "share": 0.1077867681107593
+   "share": 0.10747916371374354
   },
   {
    "name": "C#",
    "color": "#7355dd",
    "bytes": 910925,
-   "share": 0.06011342509293436
+   "share": 0.059941871995997056
   },
   {
    "name": "CSS",
    "color": "#663399",
    "bytes": 430312,
-   "share": 0.02839699006898567
+   "share": 0.028315950075298718
   },
   {
    "name": "PowerShell",
    "color": "#012456",
-   "bytes": 216393,
-   "share": 0.014280126680171633
+   "bytes": 218020,
+   "share": 0.014346435691815767
   },
   {
    "name": "Shell",
    "color": "#89e051",
-   "bytes": 207889,
-   "share": 0.01371893386299095
+   "bytes": 209731,
+   "share": 0.013800992129530376
   },
   {
    "name": "Go Template",
    "color": "#00ADD8",
-   "bytes": 78553,
-   "share": 0.005183840471306938
+   "bytes": 76113,
+   "share": 0.005008486651734582
   },
   {
    "name": "MDX",
    "color": "#fcb32c",
    "bytes": 65201,
-   "share": 0.0043027202343600334
+   "share": 0.0042904410308324
   },
   {
    "name": "SCSS",
    "color": "#c6538c",
    "bytes": 49746,
-   "share": 0.0032828196005962214
+   "share": 0.0032734510133247737
   }
  ]
 }
