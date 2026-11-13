@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-12T09:35:50.797Z",
+ "generatedAt": "2026-11-13T09:35:31.989Z",
  "sources": {
   "github": "live",
-  "githubAt": "2026-11-12T09:35:50.797Z"
+  "githubAt": "2026-11-13T09:35:31.989Z"
  },
  "user": {
   "login": "isc-joserodriguez",
@@ -15,13 +15,13 @@
   "privateRepos": 37,
   "totalRepos": 176,
   "stars": 6,
-  "yearsOnGitHub": 9.698110749771846
+  "yearsOnGitHub": 9.700848004569423
  },
  "contributions": {
-  "allTime": 13444,
-  "lastYear": 4040,
-  "previousYear": 1326,
-  "yoyGrowth": 2.046757164404223,
+  "allTime": 13451,
+  "lastYear": 4033,
+  "previousYear": 1328,
+  "yoyGrowth": 2.0368975903614457,
   "byYear": [
    {
     "year": 2017,
@@ -115,9 +115,9 @@
    },
    {
     "year": 2026,
-    "total": 3740,
-    "commits": 2764,
-    "pullRequests": 553,
+    "total": 3747,
+    "commits": 2769,
+    "pullRequests": 555,
     "issues": 123,
     "reviews": 286,
     "repositories": 14,
@@ -125,11 +125,6 @@
    }
   ],
   "calendar": [
-   {
-    "date": "2025-11-13",
-    "count": 14,
-    "level": 1
-   },
    {
     "date": "2025-11-14",
     "count": 13,
@@ -1947,6 +1942,11 @@
    },
    {
     "date": "2026-11-12",
+    "count": 7,
+    "level": 1
+   },
+   {
+    "date": "2026-11-13",
     "count": 0,
     "level": 0
    }
@@ -1998,7 +1998,7 @@
    },
    {
     "month": "2026-11",
-    "total": 333
+    "total": 340
    }
   ],
   "weekday": [
@@ -2006,15 +2006,15 @@
    579,
    522,
    531,
-   635,
+   628,
    893,
    403
   ],
   "busiestWeekday": 5,
   "currentStreak": {
-   "days": 37,
+   "days": 38,
    "start": "2026-10-06",
-   "end": "2026-11-11"
+   "end": "2026-11-12"
   },
   "longestStreak": {
    "days": 61,
@@ -2030,14 +2030,14 @@
    "count": 138
   },
   "activeDays": 304,
-  "dailyAverage": 11.068493150684931,
+  "dailyAverage": 11.04931506849315,
   "windowDays": 365
  },
  "pullRequests": {
-  "total": 1450,
+  "total": 1452,
   "merged": 1402,
-  "open": 8,
-  "mergeRate": 0.9668965517241379
+  "open": 10,
+  "mergeRate": 0.9655647382920111
  },
  "issues": {
   "total": 558
