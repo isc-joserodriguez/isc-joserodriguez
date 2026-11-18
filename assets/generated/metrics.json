@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-17T09:36:01.228Z",
+ "generatedAt": "2026-11-18T09:35:47.162Z",
  "sources": {
   "github": "live",
-  "githubAt": "2026-11-17T09:36:01.228Z"
+  "githubAt": "2026-11-18T09:35:47.162Z"
  },
  "user": {
   "login": "isc-joserodriguez",
@@ -15,13 +15,13 @@
   "privateRepos": 37,
   "totalRepos": 176,
   "stars": 6,
-  "yearsOnGitHub": 9.71180033424595
+  "yearsOnGitHub": 9.714537739308438
  },
  "contributions": {
-  "allTime": 13591,
-  "lastYear": 4149,
-  "previousYear": 1337,
-  "yoyGrowth": 2.1032161555721767,
+  "allTime": 13597,
+  "lastYear": 4146,
+  "previousYear": 1339,
+  "yoyGrowth": 2.0963405526512324,
   "byYear": [
    {
     "year": 2017,
@@ -115,21 +115,16 @@
    },
    {
     "year": 2026,
-    "total": 3887,
-    "commits": 2902,
+    "total": 3893,
+    "commits": 2906,
     "pullRequests": 561,
-    "issues": 124,
+    "issues": 126,
     "reviews": 286,
     "repositories": 14,
     "restricted": 0
    }
   ],
   "calendar": [
-   {
-    "date": "2025-11-18",
-    "count": 9,
-    "level": 1
-   },
    {
     "date": "2025-11-19",
     "count": 0,
@@ -1947,8 +1942,13 @@
    },
    {
     "date": "2026-11-17",
-    "count": 0,
-    "level": 0
+    "count": 4,
+    "level": 1
+   },
+   {
+    "date": "2026-11-18",
+    "count": 2,
+    "level": 1
    }
   ],
   "monthly": [
@@ -1998,23 +1998,23 @@
    },
    {
     "month": "2026-11",
-    "total": 480
+    "total": 486
    }
   ],
   "weekday": [
    509,
    578,
-   522,
-   535,
+   517,
+   537,
    639,
    921,
    445
   ],
   "busiestWeekday": 5,
   "currentStreak": {
-   "days": 42,
+   "days": 44,
    "start": "2026-10-06",
-   "end": "2026-11-16"
+   "end": "2026-11-18"
   },
   "longestStreak": {
    "days": 61,
@@ -2029,8 +2029,8 @@
    "date": "2026-10-30",
    "count": 138
   },
-  "activeDays": 306,
-  "dailyAverage": 11.367123287671232,
+  "activeDays": 307,
+  "dailyAverage": 11.35890410958904,
   "windowDays": 365
  },
  "pullRequests": {
@@ -2040,7 +2040,7 @@
   "mergeRate": 0.96639231824417
  },
  "issues": {
-  "total": 559
+  "total": 561
  },
  "repositoriesContributedTo": 4,
  "languages": [
