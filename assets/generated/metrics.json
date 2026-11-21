@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-20T09:35:17.975Z",
+ "generatedAt": "2026-11-21T09:35:01.596Z",
  "sources": {
   "github": "live",
-  "githubAt": "2026-11-20T09:35:17.975Z"
+  "githubAt": "2026-11-21T09:35:01.596Z"
  },
  "user": {
   "login": "isc-joserodriguez",
@@ -15,13 +15,13 @@
   "privateRepos": 38,
   "totalRepos": 177,
   "stars": 6,
-  "yearsOnGitHub": 9.720012516002484
+  "yearsOnGitHub": 9.722749847770427
  },
  "contributions": {
-  "allTime": 13650,
-  "lastYear": 4190,
-  "previousYear": 1332,
-  "yoyGrowth": 2.145645645645646,
+  "allTime": 13660,
+  "lastYear": 4188,
+  "previousYear": 1337,
+  "yoyGrowth": 2.132385938668661,
   "byYear": [
    {
     "year": 2017,
@@ -115,9 +115,9 @@
    },
    {
     "year": 2026,
-    "total": 3946,
-    "commits": 2950,
-    "pullRequests": 569,
+    "total": 3956,
+    "commits": 2958,
+    "pullRequests": 571,
     "issues": 126,
     "reviews": 286,
     "repositories": 15,
@@ -125,11 +125,6 @@
    }
   ],
   "calendar": [
-   {
-    "date": "2025-11-21",
-    "count": 12,
-    "level": 1
-   },
    {
     "date": "2025-11-22",
     "count": 0,
@@ -1947,8 +1942,13 @@
    },
    {
     "date": "2026-11-20",
-    "count": 4,
+    "count": 14,
     "level": 1
+   },
+   {
+    "date": "2026-11-21",
+    "count": 0,
+    "level": 0
    }
   ],
   "monthly": [
@@ -1998,7 +1998,7 @@
    },
    {
     "month": "2026-11",
-    "total": 539
+    "total": 549
    }
   ],
   "weekday": [
@@ -2007,7 +2007,7 @@
    517,
    558,
    658,
-   925,
+   923,
    445
   ],
   "busiestWeekday": 5,
@@ -2029,15 +2029,15 @@
    "date": "2026-10-30",
    "count": 138
   },
-  "activeDays": 308,
-  "dailyAverage": 11.479452054794521,
+  "activeDays": 307,
+  "dailyAverage": 11.473972602739726,
   "windowDays": 365
  },
  "pullRequests": {
-  "total": 1466,
-  "merged": 1417,
-  "open": 9,
-  "mergeRate": 0.9665757162346521
+  "total": 1468,
+  "merged": 1419,
+  "open": 8,
+  "mergeRate": 0.9666212534059946
  },
  "issues": {
   "total": 561
